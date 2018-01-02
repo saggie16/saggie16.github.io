@@ -2,3 +2,15 @@ div.mainWrapper{
     background-color: #e6ecff;
 }
 
+.satisfy{
+    font-family: 'Satisfy', cursive;
+}
+
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+
+.bodyWrapper{
+   background-color: #d6d6f5; 
+}
